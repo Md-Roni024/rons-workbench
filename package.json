@@ -1,0 +1,28 @@
+{
+  "name": "basebox",
+  "version": "1.0.0",
+  "description": "BaseBox - a personal engineering knowledge base. Learn. Build. Document.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "knowledge-base",
+    "notes",
+    "vitepress",
+    "markdown"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "gray-matter": "^4.0.3",
+    "mermaid": "^11.16.1",
+    "typescript": "^7.0.2",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
