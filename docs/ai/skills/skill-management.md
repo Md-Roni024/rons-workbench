@@ -83,7 +83,6 @@ date is worse than no skill, because the agent follows it confidently. So
 whatever I build needs to make staleness visible — when was this last used,
 when was it last edited, did it succeed.
 
-That is the itch behind [SkillHub](/projects/skillhub/basic).
 
 ## Questions
 
@@ -95,4 +94,3 @@ That is the itch behind [SkillHub](/projects/skillhub/basic).
 
 - [What are Agent Skills?](/ai/skills/fundamentals)
 - [SkillHub](/ai/skills/skillhub)
-- [SkillHub (project)](/projects/skillhub/basic)

@@ -16,7 +16,6 @@ updated: 2026-08-19
 # SkillHub (concept)
 
 > Personal note. This page is the *idea*; the build log lives in
-> [Projects > SkillHub](/projects/skillhub/basic).
 
 ## What is it?
 
@@ -83,4 +82,3 @@ The registry is the easy part. The valuable and difficult parts are:
 
 - [What are Agent Skills?](/ai/skills/fundamentals)
 - [Skill Management](/ai/skills/skill-management)
-- [SkillHub (project)](/projects/skillhub/basic)

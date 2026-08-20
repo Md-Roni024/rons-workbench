@@ -106,4 +106,3 @@ a 600-line diff costs an afternoon.
 - [What is Agentic SDLC?](/ai/agents/agentic-sdlc)
 - [What is an AI Harness?](/ai/agents/harness)
 - [Claude Code](/tools/claude-code)
-- [SkillHub](/projects/skillhub/basic)

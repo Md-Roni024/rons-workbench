@@ -97,7 +97,6 @@ make its failures recoverable. All three are harness work.
 
 Also: [Skills](/ai/skills/fundamentals) are how you extend a harness without
 modifying it, which is why they are interesting for
-[SkillHub](/projects/skillhub/basic).
 
 ## Questions
 

@@ -67,7 +67,6 @@ documentation, and some of them will be wrong until I come back and fix them.
   a working agent
 - [Agent Skills](/ai/skills/fundamentals) — packaging reusable capability for
   agents
-- [SkillHub](/projects/skillhub/basic) — a place to manage and share those skills
 - [MCP](/ai/mcp/) — a standard protocol for connecting agents to tools and data
 
 ## How I use this

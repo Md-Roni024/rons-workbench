@@ -10,5 +10,5 @@ Managing and sharing agent skills.
 
 ## Pages
 
-- [Q/A About Skillhub](/projects/skillhub/q-a)
+- [Q/A About Skillhub](/projects/skillhub/q_a)
 - [User Story](/projects/skillhub/user-story)
