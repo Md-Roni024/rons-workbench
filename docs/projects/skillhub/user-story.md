@@ -313,3 +313,8 @@ Legend: solid arrows = skill delivery · dashed arrows = health feedback · high
 Grounded in `platform/` — `idea.md` §3.2 (behaviour boxes), §9.5, §17.4–17.7 (setup / status_update), Q7 (native skill homes) · `devmode.py` (manifest + skills materialise).
 
 Skills · reuse · a registry over the pipe we have
+
+
+
+
+

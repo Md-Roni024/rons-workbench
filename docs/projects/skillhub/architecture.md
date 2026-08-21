@@ -1,5 +1,5 @@
 ---
-title: Different SkillHub Architecture
+title: Architecture
 description: Simple questions and answers for understanding different SkillHub architectures and implementations.
 domain: Projects
 category: SkillHub
